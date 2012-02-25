@@ -1,9 +1,9 @@
 <?php
 /* $LastChangedRevision: $ */
-$plugin['version'] = '0.3';
+$plugin['version'] = '0.3.1';
 $plugin['author'] = 'Robert Wetzlmayr, Threshold State';
 $plugin['author_uri'] = 'http://wetzlmayr.com/';
-$plugin['description'] = 'Word count and article link for article edit pages';
+$plugin['description'] = 'Word count and comments list for article edit pages';
 $plugin['order'] = 5;
 $plugin['type'] = '4';
 $plugin['textpack'] = <<< EOT
