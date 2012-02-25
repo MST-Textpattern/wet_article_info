@@ -1,4 +1,4 @@
-*wet_article_info* is a very simple plugin for "Textpattern CMS":http://textpattern.com/that displays some extra information on the *article > write* page.
+*wet_article_info* is a very simple plugin for "Textpattern CMS":http://textpattern.com/ that displays some extra information on the *article > write* page.
 
 When editing an existing article, you'll see something like this just below the Last Modified details:
 
