@@ -1,0 +1,13 @@
+*wet_article_info* is a very simple plugin for "Textpattern CMS":http://textpattern.com/that displays some extra information on the *article > write* page.
+
+When editing an existing article, you'll see something like this just below the Last Modified details:
+
+bq. 705 words (680 + 25) | comments
+
+The first item is a word count: the total words, followed by individual counts for the body and excerpt.
+
+@comments@ will display a short summary of article comments, if any, with edit links for each.
+
+The information is _not_ real time; it is updated when you save an article or open it for editing.
+
+Based upon zem_article_info 0.2.
