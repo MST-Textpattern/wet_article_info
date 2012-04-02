@@ -1,6 +1,6 @@
 <?php
 /* $LastChangedRevision: $ */
-$plugin['version'] = '0.3.1';
+$plugin['version'] = '0.3.2';
 $plugin['author'] = 'Robert Wetzlmayr, Threshold State';
 $plugin['author_uri'] = 'http://wetzlmayr.com/';
 $plugin['description'] = 'Word count and comments list for article edit pages';
