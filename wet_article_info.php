@@ -1,8 +1,8 @@
 <?php
 /* $LastChangedRevision: $ */
-$plugin['version'] = '0.3.2';
+$plugin['version'] = '0.3.3';
 $plugin['author'] = 'Robert Wetzlmayr, Threshold State';
-$plugin['author_uri'] = 'http://wetzlmayr.com/';
+$plugin['author_uri'] = 'http://awasteofwords.com/software/wet_article_info-display-word-count-and-comments-for-textpattern';
 $plugin['description'] = 'Word count and comments list for article edit pages';
 $plugin['order'] = 5;
 $plugin['type'] = '4';

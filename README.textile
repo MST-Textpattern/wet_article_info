@@ -10,4 +10,6 @@ The first item is a word count: the total words, followed by individual counts f
 
 The information is _not_ real time; it is updated when you save an article or open it for editing.
 
+Express your suggestions "in this thread":http://forum.textpattern.com/viewtopic.php?id=38408 at the Textpattern community forum, report bugs and discuss enhancements "in this plugin's issue queue":https://github.com/rwetzlmayr/wet_article_info/issues.
+
 Based upon zem_article_info 0.2.
