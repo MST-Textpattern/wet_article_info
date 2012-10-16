@@ -1,6 +1,6 @@
 <?php
 /* $LastChangedRevision: $ */
-$plugin['version'] = '0.3.3';
+$plugin['version'] = '0.3.4';
 $plugin['author'] = 'Robert Wetzlmayr, Threshold State';
 $plugin['author_uri'] = 'http://awasteofwords.com/software/wet_article_info-display-word-count-and-comments-for-textpattern';
 $plugin['description'] = 'Word count and comments list for article edit pages';
@@ -19,7 +19,7 @@ if(0){
 	?>
 # --- BEGIN PLUGIN HELP ---
 
-*wet_article_info* is a very simple plugin that displays some extra information on the *article > write* page.
+*wet_article_info* is a very simple plugin that displays some extra information on the *Content > Write* page.
 
 When editing an existing article, you'll see something like this just below the Last Modified details:
 
@@ -60,7 +60,7 @@ function wet_article_info($event, $step, $default, $rs) {
 				$cout[] = $edit_link.br.$c['email'].' | '.safe_strftime('since', strtotime($c['posted']));
 			}
 			$comments = doWrap($cout, 'ul', 'li', '', '', ' id="wet_article_comments" style="display:none;"');
-			$comment_link = ' | <a href="#" onclick="toggleDisplay(\'wet_article_comments\'); return false;">'.gTxt('comments').'</a>';
+			$comment_link = ' | <a href="#" onclick="$(\'#wet_article_comments\').toggle(); return false;">'.gTxt('comments').'</a>';
 		}
 
 		// main text
