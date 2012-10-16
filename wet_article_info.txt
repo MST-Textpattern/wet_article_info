@@ -1,0 +1,39 @@
+# wet_article_info v0.3.4
+# Word count and comments list for article edit pages
+# Robert Wetzlmayr, Threshold State
+# http://awasteofwords.com/software/wet_article_info-display-word-count-and-comments-for-textpattern
+
+# ......................................................................
+# This is a plugin for Textpattern - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# ......................................................................
+
+H4sIAAAAAAAAA71XW2/bNhR+toD+B4IxQjl15Nwv8mVBtz4U6F7WYnloC4GWjmwulKiSVBy3
+y9/aH9gf2yEl2UlaoAXW7aG1SJ7rd75DnvD48Cj+bOLzmN6CNkKVdGzi05geRMfRifs+iymv
+7VJptzg+julvag7akmuwn2TB13pI3i41mKWSGXljuQUneHjQqSW1Fm7n8iKmS2ureDTiK24s
+qHyldGaiVBUjo3K74hpGK7AJ11akEhJR5mo/E6aSfL3vZPdTVZd2n5fuqyigtGY/V3rfwp2t
+uLWgffSHhzHNwKRaVLZLCLeu0QLxFghaIJ0FIoWxBM2Q1i+BTFhS8QWYFgtUBExfxKe4Pomp
+XVdNkjH1EGFmTQjpjVueIEg7VzwrRPks2LmSvFzUaI1ksJ/Bs8BnTaYzcv33X9qCxxWNlrxo
+jCLgT1FoRZYgK/d5fngZ096kmk2M1apczJ7KT0btARGGcIKVXRMjigqTq2S9ECWxS25Ji60h
+RhWY9p3VnDh1XXAHHFFODkjn5WdVWkSMYORaWNg6cVhFk1E1CwIX1fUSSg+iKBcINRpGhP13
+E+KQrFW9u3NxdHg+lpIYAB+AXToZKW4AvWLcf9RYlzlItfJRvEbOkF9VJnIBGWJpuZAm7rzO
+pUpvPtbKwizouSDOD05Jg3R4dnFAnpOj0wH5c1N1r9ebjB7q+eDfoqtcaPSFKRYNfqsNc2If
+ilWWy8b6EJkjMUQMab5G8DJxK7IaT7248bxyKnOVrT3t4C4FXdkWrkmqMphtg/JLshIIS1sc
+dI+thf1m6qLgWEeVb4ja6Q2JwM1yPURNu2z4K0V507gHni6jbXIPC4zZTaCYlcpORvhLNGDk
+VhQwxuzdaV1l2NAZWbmSYtWI4bfgatqFgPZVhWeiaaG26g/I8IIb1K8r9PYJikcsJQfRUSsZ
+kJbiDgDfBSeuiwMNC+QO6CTlUs6xv0L2lOtsSFi3roVf+XuHDcZBkNdl6jN9qhX24RahG5I+
+mq/wJ4Oc19JtaDMgn4PeQqo5otHnVZUUGNU46CHKYXfc68+bu2RKsA0SR4bEb4S4FFVi+cI4
+4XfsBZY+WdpCsg8DjAk14Ts1XzZceay86pS7AJ6T1iDm2+uNRhtaOOnNLTcljI0f7CSOINtd
+rVZOxvAcEvcdsj0Hpb2rEiRiWhuDS1rhFV1akU0ZjTL1RnKzbCJ99QvGF1HmKX4rjJhLcEK/
+v3rz6sXrl+7EX6KuSSplrO9gk1KfUgMrOm2A7SGRHGfbTcIN6aftUa9fYJQV0iLRgO2RQsiu
+3pvnVy5Ygv89hDB9xwowBi+nDrzGF8pIKMN+McCr7Oxg4A8ay6ae4ykeDcnB0J1FbBdvXSmq
+MWsM9B3FO/DgNf6GbItQ95k4qQdrkeHCBbRdf8CNoo0Ki1Lbdx9cUTfmo7mOnAYUeNGxDxHD
+24tFvkAYYu66NGRGlCk0aeOl5LacSoPwJun7oPeYCZm61rwKvVeMsZYuUul7p/tHsMiPnqFO
+naKvNRaXtvdTXKoSxpQ1rr5gFwY94QTng3xKdyi+KKkU6c2U9sP3bOdr9t+zQWTVYiEhHIzx
+QrK1LknOpUEnMxYt3t7ZkHXCKMsmIz7ztblv6Y944buFr5lvNf+oTZFLbbfs7nbtMiA/Ebo9
+2LTRgJK4bQvPzO4CIFPMh5t1mbKWjQbKLGnmDKSjwTvOYE36Id354gEfRBoKdeuSaqByRWmz
+6+6eqIycVSRv6Fmx0DwP6cQUePfNur6nLQT+9cH8aZviI+TxafZK6LaxuS3/0C+Rh7dfLbMP
+ljkZF+V9cN/ON270SDRf+YnoAqfFvadaez9k1th7MmTsNcNFEHzXUMH+7TgRBPOPEfnG7BAE
+/9eQEARXndOr/2Yq+MpEkOA4kPy4USAIvjUC+D8sYlpkp/7rKKbnl4enKT87veDpMb/k+fH8
+6Og8vTg5u7zgJ8BzOr7/Bz3GzC25DAAA
